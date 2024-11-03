@@ -1,6 +1,5 @@
 <h3 align="center">
-  Welcome to my GitHub profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ Let's to create amazing things! :video_game:
 </h3>
 
 <!-- GIF HEADER -->
@@ -8,12 +7,12 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me
 <picture><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
-- :school: I am a student at [SENA](https://www.sena.edu.co) in the `Software Analysis and Development Program`
-- :trophy: Aspiring `Fullstack Developer` **and** Future `Engineer`
-- :technologist: **Currently working in** `Frontend and Backend Development`
-- :earth_americas: From `Colombia` **to the world**: My passion for technology knows no bounds
+- :computer: I am a `Game Developer`
+- :trophy: Aspiring `Senior Developer` **and** Future `CEO`
+- :technologist: **Currently working in** `Game Developer, UI` **and** `UX Designer`
+- :earth_americas: From `Colombia` **to the world**: My passion for video games knows no bounds
 - :rocket: Always seeking **new opportunities** to learn, grow, and contribute to the tech world
-- :nerd_face: I firmly believe that `"You are what you love"`
+- :nerd_face: I firmly believe that `"With dedication and effort, the impossible becomes possible."`
 - :coffee: **Coffee enthusiast**
 <br>
 
