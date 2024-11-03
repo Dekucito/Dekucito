@@ -6,14 +6,14 @@
 <img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true" style="width: 100%;">
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me
-<picture><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
+<picture><img align="right" src="GitComponents/Avatar.png" width="300px"></picture>
 - :computer: I am a `Game Developer`
 - :trophy: Aspiring `Senior Developer` **and** Future `CEO`
 - :technologist: **Currently working in** `Game Developer, UI` **and** `UX Designer`
 - :earth_americas: From `Colombia` **to the world**: My passion for video games knows no bounds
 - :rocket: Always seeking **new opportunities** to learn, grow, and contribute to the tech world
 - :nerd_face: I firmly believe that `"With dedication and effort, the impossible becomes possible."`
-- :coffee: **Coffee enthusiast**
+- :stars: **Fan of The Legend of Zelda saga**
 <br>
 
 <!--h1 without bottom border-->
