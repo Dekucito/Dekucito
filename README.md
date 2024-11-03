@@ -51,14 +51,8 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chanciLBA@gmail.com&su=Asunto&body=Mensaje" style="text-decoration:none">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="www.linkedin.com/in/felipe-carvajal-parra">
+  <a href="https://www.linkedin.com/in/andres-chanci">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
