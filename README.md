@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js,py,django,mysql,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=github,unity,cs, visualstudio" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,java,spring" />
+    <img src="https://skillicons.dev/icons?i=git,unreal,cpp" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 </div>
 <!--tech stack icons-->
 <p align="left">
-  <a href="" style="text-decoration:none">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chanciLBA@gmail.com&su=Asunto&body=Mensaje" style="text-decoration:none">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="">
