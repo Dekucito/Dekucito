@@ -6,7 +6,7 @@
 <img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true" style="width: 100%;">
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me
-<picture><img align="right" src="GitComponents/Avatar.png" width="300px"></picture>
+<picture><img align="right" src="https://64.media.tumblr.com/1ebd2641c496f9708b24f03a599175b9/tumblr_nrm2qgUFey1rzn9vfo1_540.gif" width="300px"></picture>
 - :computer: I am a `Game Developer`
 - :trophy: Aspiring `Senior Developer` **and** Future `CEO`
 - :technologist: **Currently working in** `Game Developer, UI` **and** `UX Designer`
