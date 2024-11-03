@@ -63,12 +63,12 @@
   <table align="left" style="width: 100%; border-spacing: 10px; border-collapse: separate;">
     <tr border="none">
       <td width="50%" align="center" style="padding: 10px; background-color: #2C2F33; border: 2px solid #2ECC71; border-radius: 10px;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dekucito&theme=radical&show_icons=true&count_private=true&bg_color=2C2F33&title_color=2ECC71&text_color=FFFFFF&icon_color=FFCC00&border_color=2ECC71" alt="GitHub Stats" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dekucito&theme=radical&show_icons=true&count_private=true&bg_color=2C2F33&title_color=8655A8&text_color=FFFFFF&icon_color=FFCC00&border_color=8655A8" alt="GitHub Stats" />
         <br></br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dekucito&theme=radical&hide_border=false&background=2C2F33&stroke=2ECC71&ring=2ECC71&fire=FFCC00&currStreakNum=2ECC71&sideNums=FFFFFF&currStreakLabel=2ECC71&sideLabels=FFFFFF&dates=808080" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dekucito&theme=radical&hide_border=false&background=2C2F33&stroke=8655A8&ring=8655A8&fire=FFCC00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=808080" />
       </td>
       <td width="50%" align="center" style="padding: 10px; background-color: #2C2F33; border: 2px solid #2ECC71; border-radius: 10px;">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dekucito&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=7&bg_color=2C2F33&title_color=2ECC71&text_color=FFFFFF&icon_color=FFCC00&border_color=2ECC71" alt="Top Languages" />
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dekucito&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=7&bg_color=2C2F33&title_color=2ECC71&text_color=FFFFFF&icon_color=8655A8&border_color=8655A8" alt="Top Languages" />
       </td>
     </tr>
   </table>
